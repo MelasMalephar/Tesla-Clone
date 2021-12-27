@@ -1,6 +1,6 @@
 {
   "name": "tesla-clone",
-  "homepage": "https://melasmalephar.github.io/Tesla-Clone/"
+  "homepage": "https://melasmalephar.github.io/Tesla-Clone/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
